@@ -1,0 +1,6 @@
+openai
+python-dotenv
+networkx
+pandas
+requests
+pypdf

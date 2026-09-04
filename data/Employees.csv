@@ -1,0 +1,101 @@
+emp_id,name,department,position,email,phone,hire_date,salary_inr,location,manager,status
+EMP001,Kevin Davis,Engineering,QA Engineer,kevin.davis1@company.com,9553035110,2018-04-05,61868,Gurugram,Jennifer Mehta,Active
+EMP002,Jennifer Wilson,Human Resources,HR Executive,jennifer.wilson2@company.com,9732719211,2023-04-23,177853,Delhi,Joseph Lewis,On Leave
+EMP003,Pooja Smith,Marketing,Marketing Manager,pooja.smith3@company.com,9507943839,2020-05-05,91443,Chennai,Michael Garcia,Active
+EMP004,Amit Thompson,Product,Product Manager,amit.thompson4@company.com,9184611066,2015-12-15,175568,Bengaluru,Meera Harris,Active
+EMP005,Neha Chopra,Product,Product Manager,neha.chopra5@company.com,9930075810,2024-04-23,53233,Ahmedabad,Brian Anderson,On Leave
+EMP006,Jennifer Anderson,Sales,Business Development,jennifer.anderson6@company.com,9324956459,2019-08-21,130638,Mumbai,Lisa Thompson,Active
+EMP007,George Chatterjee,Sales,Account Manager,george.chatterjee7@company.com,9787194506,2023-12-08,77834,Noida,Anthony Moore,Active
+EMP008,Joseph Chatterjee,Operations,Operations Executive,joseph.chatterjee8@company.com,9326541099,2018-01-26,117694,Delhi,Sarah Jones,Active
+EMP009,Joshua Kulkarni,Operations,Operations Executive,joshua.kulkarni9@company.com,9364814270,2025-08-13,155285,Mumbai,Thomas Rodriguez,Active
+EMP010,Andrew Taylor,Product,Product Manager,andrew.taylor10@company.com,9197613238,2024-07-12,92493,Mumbai,Paul Verma,Active
+EMP011,Pooja Davis,Marketing,Content Strategist,pooja.davis11@company.com,9602564736,2025-07-20,51653,Delhi,Anthony Joshi,Active
+EMP012,Emily Smith,Sales,Sales Manager,emily.smith12@company.com,9103484630,2025-06-04,111939,Delhi,William Robinson,Active
+EMP013,Sanjay Pillai,Finance,Accountant,sanjay.pillai13@company.com,9264109919,2023-02-28,113235,Gurugram,Kenneth Gonzalez,On Leave
+EMP014,William Reddy,Legal,Legal Associate,william.reddy14@company.com,9992994062,2024-06-16,40105,Bengaluru,Meera White,Active
+EMP015,Jessica Brown,Human Resources,HR Executive,jessica.brown15@company.com,9237859287,2016-12-16,53143,Gurugram,Sneha Rodriguez,Active
+EMP016,Emily Hernandez,Finance,Payroll Specialist,emily.hernandez16@company.com,9797801251,2018-09-25,87730,Hyderabad,Betty Bose,On Leave
+EMP017,Divya Nair,IT,IT Support Specialist,divya.nair17@company.com,9347083812,2018-04-03,123627,Ahmedabad,Donna Rao,Active
+EMP018,James Jones,Engineering,Senior Software,james.jones18@company.com,9399012686,2016-01-28,121619,Bengaluru,Paul Thomas,Active
+EMP019,Susan Reddy,Marketing,Marketing Manager,susan.reddy19@company.com,9807577342,2018-08-26,141708,Pune,Michael Miller,On Leave
+EMP020,Margaret Clark,IT,IT Support Specialist,margaret.clark20@company.com,9464323393,2025-11-21,60799,Ahmedabad,Betty Pillai,Active
+EMP021,Michael Thomas,Human Resources,Recruiter,michael.thomas21@company.com,9368227631,2023-08-05,145593,Mumbai,Sarah Robinson,Active
+EMP022,John Lewis,Legal,Legal Associate,john.lewis22@company.com,9353810544,2015-11-18,38868,Bengaluru,Meera Shah,Active
+EMP023,Ashley Sharma,Human Resources,HR Business Partner,ashley.sharma23@company.com,9406284028,2015-03-13,35565,Delhi,Thomas Robinson,On Leave
+EMP024,Ravi Rao,IT,System Administrator,ravi.rao24@company.com,9165452690,2018-05-07,50331,Kolkata,Priya Reddy,Active
+EMP025,Patricia Brown,Product,Product Manager,patricia.brown25@company.com,9173574218,2023-09-06,49910,Gurugram,Jennifer Lopez,Active
+EMP026,Carol Thomas,Customer Support,Support Executive,carol.thomas26@company.com,9805849060,2024-04-19,45418,Kolkata,Jennifer Clark,Active
+EMP027,Kimberly Lee,Finance,Accountant,kimberly.lee27@company.com,9821221887,2025-12-11,97570,Hyderabad,Betty Rodriguez,Active
+EMP028,Sandra Lee,Sales,Sales Executive,sandra.lee28@company.com,9643189555,2022-10-19,61209,Bengaluru,Andrew Wilson,On Leave
+EMP029,Meera Thompson,Sales,Account Manager,meera.thompson29@company.com,9756783995,2020-05-06,149867,Gurugram,Amanda Martin,Active
+EMP030,Anjali Malhotra,Legal,Legal Associate,anjali.malhotra30@company.com,9214929002,2025-09-10,62154,Mumbai,Thomas Davis,Active
+EMP031,Elizabeth Moore,Finance,Accountant,elizabeth.moore31@company.com,9154544899,2020-04-22,104201,Gurugram,Ashley Taylor,Active
+EMP032,Margaret Moore,Engineering,Software Engineer,margaret.moore32@company.com,9692362342,2020-03-21,103670,Mumbai,Priya Lewis,Active
+EMP033,Emily Smith,Sales,Sales Executive,emily.smith33@company.com,9561479973,2017-09-02,131787,Kolkata,Emily Martinez,Active
+EMP034,Karen White,Engineering,QA Engineer,karen.white34@company.com,9536344399,2018-11-08,61946,Chennai,Sneha Rao,Active
+EMP035,Priya Martinez,Human Resources,Recruiter,priya.martinez35@company.com,9961393416,2017-07-01,82018,Chennai,Vikram Clark,Active
+EMP036,Priya Thomas,Finance,Accountant,priya.thomas36@company.com,9976803188,2016-07-28,45151,Noida,Joseph Gonzalez,Active
+EMP037,Matthew Martin,Human Resources,Recruiter,matthew.martin37@company.com,9930353157,2015-11-07,139455,Chennai,Sarah Jones,On Leave
+EMP038,Dorothy Iyer,Customer Support,Customer Success,dorothy.iyer38@company.com,9385042337,2023-06-01,65236,Hyderabad,Barbara Mehta,Active
+EMP039,Kenneth Ramirez,Operations,Logistics Coordinator,kenneth.ramirez39@company.com,9304095531,2020-07-20,169066,Bengaluru,Anthony Gupta,On Leave
+EMP040,Amanda Ramirez,Engineering,Engineering Manager,amanda.ramirez40@company.com,9813219781,2023-11-24,86651,Chennai,Margaret Jones,Active
+EMP041,Michelle Lee,Sales,Sales Manager,michelle.lee41@company.com,9417457352,2023-05-22,142057,Chennai,Betty Desai,Active
+EMP042,Richard Clark,Customer Support,Customer Success,richard.clark42@company.com,9426283245,2017-10-19,113892,Delhi,Emily Smith,On Leave
+EMP043,Margaret Mehta,Product,UX Designer,margaret.mehta43@company.com,9952266893,2020-08-15,150909,Pune,Paul Sharma,Active
+EMP044,Vikram Menon,Marketing,Marketing Executive,vikram.menon44@company.com,9352188235,2019-09-22,122867,Bengaluru,Rahul Shah,Active
+EMP045,Joseph Gonzalez,Marketing,Marketing Executive,joseph.gonzalez45@company.com,9718121922,2015-04-16,54091,Noida,Mark Chopra,Active
+EMP046,George Harris,IT,Network Engineer,george.harris46@company.com,9334978881,2018-03-21,36453,Bengaluru,Sneha Ramirez,Active
+EMP047,George Nair,IT,IT Support Specialist,george.nair47@company.com,9816806128,2023-04-28,66813,Noida,David Robinson,Active
+EMP048,Emily Joshi,Operations,Operations Manager,emily.joshi48@company.com,9898493949,2024-12-17,146867,Gurugram,Donald Hernandez,Active
+EMP049,Donald Taylor,Human Resources,HR Manager,donald.taylor49@company.com,9866162966,2023-08-21,97716,Hyderabad,Donald Jones,On Leave
+EMP050,Sarah Perez,Operations,Logistics Coordinator,sarah.perez50@company.com,9858511779,2016-03-05,95623,Delhi,George Martinez,Active
+EMP051,Mark Clark,Operations,Logistics Coordinator,mark.clark51@company.com,9727150493,2022-07-02,89220,Delhi,Anthony Patel,Active
+EMP052,Mary Shah,Product,Product Manager,mary.shah52@company.com,9677909930,2022-01-12,113279,Delhi,Amit Clark,Active
+EMP053,Andrew Joshi,Human Resources,HR Business Partner,andrew.joshi53@company.com,9818197581,2018-05-14,162308,Ahmedabad,Anthony Perez,Active
+EMP054,Betty Pillai,Marketing,Marketing Manager,betty.pillai54@company.com,9811890569,2017-10-18,42069,Delhi,Donna Gupta,Active
+EMP055,Dorothy Ramirez,Marketing,Marketing Manager,dorothy.ramirez55@company.com,9450948014,2017-01-09,134379,Chennai,Susan Robinson,On Leave
+EMP056,Sanjay Harris,Finance,Payroll Specialist,sanjay.harris56@company.com,9340756713,2019-02-16,40081,Gurugram,Patricia Thompson,Active
+EMP057,Sneha Malhotra,Engineering,Software Engineer,sneha.malhotra57@company.com,9235528741,2018-04-27,40342,Kolkata,Elizabeth Thomas,On Leave
+EMP058,Linda Gupta,Human Resources,HR Business Partner,linda.gupta58@company.com,9721358005,2019-06-06,65024,Mumbai,Karen Miller,Active
+EMP059,Karen Gupta,Customer Support,Support Team Lead,karen.gupta59@company.com,9423821937,2018-02-19,98661,Bengaluru,George Patel,Active
+EMP060,Kenneth Davis,Product,Product Analyst,kenneth.davis60@company.com,9466394187,2020-09-14,132142,Bengaluru,Paul Malhotra,Active
+EMP061,Mark Verma,Sales,Business Development,mark.verma61@company.com,9887906704,2020-11-27,155517,Mumbai,Margaret Lopez,Active
+EMP062,Dorothy Moore,Product,UX Designer,dorothy.moore62@company.com,9991990632,2022-08-14,105358,Chennai,Amit Thomas,Active
+EMP063,Sarah Lewis,Human Resources,HR Business Partner,sarah.lewis63@company.com,9448981305,2024-10-22,134349,Chennai,Mary Verma,Active
+EMP064,Susan Thompson,Finance,Finance Manager,susan.thompson64@company.com,9305145276,2019-10-23,107422,Gurugram,James Nair,Active
+EMP065,Ravi Clark,IT,System Administrator,ravi.clark65@company.com,9199915275,2022-11-23,163665,Noida,Vikram Johnson,On Leave
+EMP066,Betty Desai,Human Resources,HR Manager,betty.desai66@company.com,9556881239,2025-10-12,159062,Gurugram,Kimberly Thompson,Active
+EMP067,Emily Perez,Operations,Logistics Coordinator,emily.perez67@company.com,9306785808,2022-05-10,100903,Pune,Linda Pillai,On Leave
+EMP068,Priya Reddy,Marketing,Content Strategist,priya.reddy68@company.com,9740799178,2018-12-16,107482,Kolkata,Arjun Nair,On Leave
+EMP069,Michael Gonzalez,Finance,Accountant,michael.gonzalez69@company.com,9148872110,2020-03-10,38708,Gurugram,David Moore,Active
+EMP070,Emily Jackson,Marketing,Marketing Manager,emily.jackson70@company.com,9465830215,2016-01-19,109537,Noida,Steven Lewis,Active
+EMP071,Patricia Taylor,IT,IT Support Specialist,patricia.taylor71@company.com,9157562304,2016-07-16,54420,Kolkata,Kevin Chatterjee,Active
+EMP072,Anjali Gupta,Finance,Financial Analyst,anjali.gupta72@company.com,9342329714,2018-02-18,144097,Kolkata,Kenneth Kapoor,Active
+EMP073,Anthony Lewis,IT,IT Manager,anthony.lewis73@company.com,9918982730,2024-07-10,50789,Kolkata,Priya Miller,Active
+EMP074,Susan Taylor,Sales,Account Manager,susan.taylor74@company.com,9583724666,2018-03-18,54677,Mumbai,James Clark,Active
+EMP075,Steven Jackson,Engineering,Senior Software,steven.jackson75@company.com,9384063364,2019-12-10,154021,Bengaluru,Carol Anderson,Active
+EMP076,Kevin Mehta,Human Resources,HR Business Partner,kevin.mehta76@company.com,9176675731,2016-09-08,74056,Hyderabad,Rahul Martinez,Active
+EMP077,Vikram Martin,Product,UX Designer,vikram.martin77@company.com,9851333320,2024-05-15,67598,Noida,George Martin,On Leave
+EMP078,Sarah Iyer,Legal,Compliance Officer,sarah.iyer78@company.com,9748232591,2022-02-20,45449,Delhi,Priya Lee,On Leave
+EMP079,Jennifer Anderson,Product,UX Designer,jennifer.anderson79@company.com,9912037475,2015-11-27,105650,Kolkata,Robert Shah,Active
+EMP080,Kimberly Malhotra,IT,IT Manager,kimberly.malhotra80@company.com,9538460431,2017-10-14,163902,Bengaluru,Steven Thompson,On Leave
+EMP081,Brian Miller,Marketing,SEO Specialist,brian.miller81@company.com,9690661740,2021-12-16,110554,Delhi,Rahul Shah,Active
+EMP082,Jennifer Lee,Finance,Finance Manager,jennifer.lee82@company.com,9596043327,2016-07-28,169898,Ahmedabad,Brian Reddy,On Leave
+EMP083,Richard Nair,Operations,Logistics Coordinator,richard.nair83@company.com,9240674381,2022-11-15,48529,Pune,Sarah Rao,Active
+EMP084,Donald Desai,IT,IT Support Specialist,donald.desai84@company.com,9114682844,2015-11-20,97730,Mumbai,Karen Rao,Active
+EMP085,Jennifer Anderson,Sales,Business Development,jennifer.anderson85@company.com,9413383963,2016-11-27,75362,Noida,Meera Kulkarni,Active
+EMP086,Sarah Clark,IT,Network Engineer,sarah.clark86@company.com,9645719501,2018-08-18,72917,Delhi,Richard Joshi,Active
+EMP087,David Jones,Finance,Payroll Specialist,david.jones87@company.com,9999232921,2020-09-09,35672,Hyderabad,Ravi Martin,Active
+EMP088,Brian Verma,Marketing,Marketing Manager,brian.verma88@company.com,9505026213,2023-08-12,122147,Gurugram,Arjun Reddy,On Leave
+EMP089,Daniel Gonzalez,Human Resources,HR Business Partner,daniel.gonzalez89@company.com,9514548900,2018-07-02,118408,Noida,Amanda Harris,Active
+EMP090,Vikram Malhotra,Marketing,Marketing Manager,vikram.malhotra90@company.com,9207064620,2015-03-17,122030,Bengaluru,Pooja Lewis,Active
+EMP091,Sandra Smith,Marketing,Marketing Manager,sandra.smith91@company.com,9843785903,2025-03-03,158074,Hyderabad,Nancy Kapoor,On Leave
+EMP092,Jennifer Perez,Legal,Compliance Officer,jennifer.perez92@company.com,9173466219,2020-11-23,162912,Gurugram,Robert Kapoor,Active
+EMP093,Carol Jackson,Human Resources,HR Executive,carol.jackson93@company.com,9421549249,2021-02-25,61347,Noida,William Desai,Active
+EMP094,Robert Lee,Engineering,QA Engineer,robert.lee94@company.com,9707660630,2020-06-14,73160,Pune,Kimberly Clark,Active
+EMP095,Barbara Hernandez,Marketing,Marketing Executive,barbara.hernandez95@company.com,9253671484,2024-07-20,98132,Noida,Karan Mehta,Active
+EMP096,Kevin Taylor,IT,IT Manager,kevin.taylor96@company.com,9269625036,2025-01-26,156963,Hyderabad,Carol Reddy,Active
+EMP097,Matthew Mehta,Finance,Payroll Specialist,matthew.mehta97@company.com,9214518079,2019-08-28,114199,Pune,Anthony Sharma,Active
+EMP098,Joshua Thompson,Product,Product Manager,joshua.thompson98@company.com,9836371599,2019-01-27,138758,Hyderabad,James Gupta,Active
+EMP099,Patricia Joshi,IT,IT Manager,patricia.joshi99@company.com,9766676815,2018-10-26,127358,Pune,Kevin Gonzalez,On Leave
+EMP100,Arjun Pillai,Marketing,Marketing Executive,arjun.pillai100@company.com,9491766764,2025-11-02,115984,Noida,Robert Mehta,Active
