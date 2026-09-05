@@ -1,4 +1,4 @@
-# AI Employee Assistant
+# AI Employee graph and live rag
 
 An AI-powered employee assistant that combines **Structured RAG, Graph RAG, and Live RAG** to answer employee-related questions and provide real-time information through a **Streamlit** interface.
 
