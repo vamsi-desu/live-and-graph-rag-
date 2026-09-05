@@ -1,6 +1,6 @@
-venv/
 .env
+venv/
+env/
+.venv/
 __pycache__/
 *.pyc
-graph/
-database/
